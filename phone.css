@@ -1,0 +1,90 @@
+.container{
+    background: url('bg-mobile.png') no-repeat;
+    width: 375px;
+    height: 665px;
+}
+.box1{
+    /*border: 2px solid red;*/
+    display: flex;
+    height: 204px;
+    width: 326px;
+    border-radius: 10px;
+    border-top-right-radius: 100px;
+    position: absolute;
+    top: 125px;
+    left: 23px;
+    background-color: hsl(228, 56%, 26%);
+    
+}
+.box2{
+    /*border: 2px solid red;*/
+    width: 326px;
+    height: 160px;
+    position: absolute;
+    top: 343px;
+    left: 23px;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 10px;
+
+}
+#box3{
+    /*border: 2px solid red;*/
+    height: 70px;
+    width: 178px;
+    padding-top: 25px;
+    position: absolute;
+    top: 466px;
+    left: 98px;
+    text-align: center;
+    background-color: white;
+    color: hsl(229, 7%, 55%);
+    border-radius: 10px;
+    
+    font-family: 'Raleway', sans-serif;
+    font-size: 9px;
+}
+#line2{
+    /*border: 2px solid black;*/
+    border-radius: 10px;
+    height: 17px;
+    width: 262px;
+    margin-top: 16px;
+    margin-left: 40px;
+    padding: 1px;
+    background-color: hsl(229, 57%, 11%);
+}
+#line3{
+    /*border:2px solid red;*/
+    border-radius: 10px;
+    height: 11px;
+    margin-top: 2px;
+    width: 196px;
+    background-color: hsl(335, 100%, 65%);
+}
+#line4{
+    background-color: white;
+    margin-left: 184px;
+    margin-top: 1px;
+    height:10px;
+    width: 11px;
+    padding:1px 0px;
+    border-radius: 100px;
+
+}
+#text2{
+    /*border:2px solid black;*/
+    display: display inline-block;
+    margin-left: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+
+}
+#text3{
+    /*border:2px solid black;*/
+    display: inline-block;
+    margin-left: 189px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+}

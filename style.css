@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    /*border: 2px solid black;*/
+    display: flex;
+    height: 796px;
+    width: 1440px;
+    background: url('bg-desktop.png') no-repeat;
+    background-position: bottom;
+    background-color: hsl(229, 57%, 11%);
+
+}
+.box1{
+    /*border: 2px solid red;*/
+    display: flex;
+    height: 196px;
+    width: 349px;
+    border-radius: 10px;
+    border-top-right-radius: 100px;
+    position: absolute;
+    top: 290px;
+    left: 260px;
+    background-color: hsl(228, 56%, 26%);
+    
+
+}
+#logo{
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 47px;
+    margin-left: 41px;
+}
+#heading{
+    margin-top: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.image{
+    /*border: 2px solid red;*/
+    margin: 1px;
+    height: 47px;
+    width: 47px;
+    border-radius: 10px;
+    background-color: hsl(229, 57%, 11%);
+    
+}
+#image1{
+    position: absolute;
+    top: 112px;
+    left: 41px;
+    padding: 7px 12px;
+}
+#image2{
+    position: absolute;
+    top: 112px;
+    left: 105px;
+    padding: 10px 10px;
+}
+#image3{
+    position: absolute;
+    top: 112px;
+    left: 165px;
+    padding: 13px 9px;
+}
+.box2{
+    /*border: 2px solid red;*/
+    width: 541px;
+    height: 156px;
+    position: absolute;
+    top: 330px;
+    left: 639px;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 10px;
+
+}
+#text{
+    margin-top: 0px;
+    padding-left: 40px;
+    /*border: 2px solid black;*/
+    display: inline-block;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    
+
+}
+
+#box3{
+    /*border: 2px solid red;*/
+    height: 70px;
+    width: 178px;
+    padding-top: 25px;
+    position: absolute;
+    top: 285px;
+    left: 958px;
+    text-align: center;
+    background-color: white;
+    color: hsl(229, 7%, 55%);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 9px;
+}
+#box31{
+    display: inline-block;
+    font-size: 20px;
+    color: black;
+}
+#line1{
+    margin-left: 477px;
+    margin-top: 22px;
+    /*border: 2px soid black;*/
+    width: 0px;
+    height: 0px;
+    border-left: 20px solid transparent;
+    border-top: 20px solid white;
+}
+#line2{
+    /*border: 2px solid black;*/
+    border-radius: 10px;
+    height: 17px;
+    width: 457px;
+    margin-top: 16px;
+    margin-left: 40px;
+    padding: 1px;
+    background-color: hsl(229, 57%, 11%);
+}
+#line3{
+    /*border:2px solid red;*/
+    border-radius: 10px;
+    height: 11px;
+    margin-top: 2px;
+    width: 335px;
+    background-color: hsl(335, 100%, 65%);
+}
+#line4{
+    background-color: white;
+    margin-left: 325px;
+    margin-top: 1px;
+    height:9px;
+    width: 9px;
+    padding:1px 0px;
+    border-radius: 100px;
+
+}
+#text2{
+    /*border:2px solid black;*/
+    display: inline-block;
+    margin-left: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+
+}
+#text3{
+    /*border:2px solid black;*/
+    display: inline-block;
+    margin-left: 390px;
+    margin-top: 10px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px;
+}
